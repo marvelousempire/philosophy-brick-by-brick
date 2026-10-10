@@ -1,5 +1,9 @@
 # philosophy-brick-by-brick
 
+<p align="center">
+  <img src="assets/brick.svg" alt="Brick by Brick" width="120">
+</p>
+
 The Brick by Brick Flawless Victory philosophy. Gain control of the project from where it stands. Test everything, look at everything, clean everything, and no brick goes down unless it is flawless. Every lesson becomes a brick, laid zero to one to two to three, each verified before the next goes on top.
 
 ## The four governing points
@@ -14,6 +18,47 @@ The Brick by Brick Flawless Victory philosophy. Gain control of the project from
 Gain control of the project from where it stands. Test everything, look at everything, clean everything. No brick goes down unless it is flawless.
 
 This is the sequencing application of the law: brick by brick is the organizing tool that puts things in order. The wall is the philosophy; the app is the instrument that enforces it.
+
+## The ladder
+
+```
+Bootstrap English manifest
+        |
+   Python  <-->  Node.js   (side by side, dual runtime)
+        |
+   Rust + Tari            (foundation)
+        |
+   Motion layer           (Motion 3.5, GSAP, WebGPU)
+```
+
+Python and Node.js run side by side as the dual runtime. Rust with Tari sits underneath as the foundation. The motion layer — Motion 3.5, GSAP, WebGPU — is the presentation surface. The Bootstrap English manifest is the top rung: the law that every brick below it obeys.
+
+The engine repo is [brick-by-brick](https://github.com/marvelousempire/brick-by-brick) — the Makefile wall, the lying-brick proof, the graceful validation, the Python and Node twins, and the IFTTT model.
+
+## The proxy rule
+
+Brick by brick is a proxy between you and the LLM. Before answering, the AI checks the brick-by-brick folder. If the answer exists there, it answers through it. If it does not, business as usual takes over — the existing protocols, or the freestyling protocols created as we go.
+
+Brick by brick is the first responder, not the only responder.
+
+## The child-theme analogy
+
+Brick by brick is the child theme to a parent theme. The parent theme is business as usual. The child overrides the parent only where it defines something; everything else falls through untouched.
+
+It is also what QLoRA is to a base model: a low-rank adapter layered on top of a frozen base. The base stays intact. The adapter shapes the output without rewriting the weights.
+
+## The IFTTT model
+
+Brick by brick modeled on If This Then That.
+
+**If** this condition, **then** that brick gets laid. The condition is the trigger. The brick is the action. The receipt is the proof the action fired.
+
+- **If** a lesson is learned and verified, **then** a brick is laid.
+- **If** the receipt disagrees with the claim, **then** graceful validation offers the next option — never a hard no.
+- **If** a new app is named, **then** it gets a numbered position in the taxonomy registry.
+- **If** a rule is added, **then** the biometrics gate opens first.
+
+Every if-then pair in the system is a brick. The condition is inspected. The action is proven. The receipt is checked by something outside the brick.
 
 ## The trust framework
 
@@ -66,19 +111,3 @@ Three-year-olds who can already talk back. We teach order, not vocabulary. The v
 ## The myway folder
 
 The settings layer from setThat. Everything you set becomes the order things happen. Name still open.
-
-## Hold list — not yet posted
-
-- The eighteen README stencil files (anatomy-of-readme-files, 000 through 012, 00A through 00F)
-- The hybrid repo-standard update adding the marketing tongue rule
-- The markdown stencils and micro-slice app for building repos
-- The Briefcase CMS custom profile type — every markdown file becomes a WordPress post
-- The GitHub-to-Gitea routing rule
-- The Automata rebuild plan — sixteen thousand micro slices
-- The red-blue-green color mapping and Venus-Mars-union symbol system
-- The taxonomy registry — numbered apps, groups, and order
-- The governing validation pipeline documentation
-- The myway folder documentation
-- The standard-operating-procedures folder structure
-- The nephew-one-platform README rewrite with Clarify That language
-- UNDERSTANDING-THE-METHOD.md in bootstrap-english-corner
