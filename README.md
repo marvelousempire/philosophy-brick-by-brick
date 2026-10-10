@@ -15,6 +15,12 @@ This is the single source of truth for the full brick-by-brick doctrine. The eng
 - **Model That** — structure everything off something that exists. Stand on the shoulders of giants.
 - **Sauce factor** — the extraction engine. Take the upstream, extract the essence, pour it into your own shape. Briefcase came from WordPress. Colored Words came from Dynamic Shortcodes.
 
+## Firing orders and rule
+
+Firing orders are the mechanism Brick by Brick uses to guarantee knowns. Each brick is a fired order — a verified unit that can't be skipped — and the wall is built by stacking them in sequence. The rule is that no brick ships without its receipt, and no order fires without a brick behind it.
+
+**Services related** from That App Studio: the apps in That App Studio are the services that execute the philosophy. Brick by Brick is the governing point; the apps are the hands that carry it out. In plain English, "relations from That App Studio" means services related.
+
 ## Brick by Brick Flawless Victory
 
 Gain control of the project from where it stands. Test everything, look at everything, clean everything. No brick goes down unless it is flawless.
