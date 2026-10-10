@@ -1,0 +1,6 @@
+{
+  "name": "Concept-Trigger Law",
+  "brick": "1",
+  "rule": "saying 'I want to make a new app' auto-creates a hashtag-verb-noun concept",
+  "process": "1) find the word the user is using to commission the app, 2) look up the Merriam-Webster definition, 3) recite the definitions and sentences, 4) qualify which sense applies, 5) assign the number and subscript, 6) place it under the app title as the short description"
+}

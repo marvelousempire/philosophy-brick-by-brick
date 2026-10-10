@@ -1,0 +1,10 @@
+{
+  "app": "Habit That",
+  "sense_citation": "habit 1a (Merriam-Webster: a settled or regular tendency or practice)",
+  "short_description": "habit 1a - a settled or regular tendency or practice",
+  "category": "pattern-tracking",
+  "tags": ["apple-screen-time-api", "productivity", "on-device-privacy"],
+  "chassis": "WooCommerce (out of the box, with option)",
+  "support": ["pods", "ACT Pro"],
+  "classification": "tag-based (not free-form categories)"
+}

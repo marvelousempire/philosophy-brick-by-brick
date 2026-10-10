@@ -6,6 +6,8 @@
 
 The Brick by Brick Flawless Victory philosophy. Gain control of the project from where it stands. Test everything, look at everything, clean everything, and no brick goes down unless it is flawless. Every lesson becomes a brick, laid zero to one to two to three, each verified before the next goes on top.
 
+This is the single source of truth for the full brick-by-brick doctrine. The engine repo — [brick-by-brick](https://github.com/marvelousempire/brick-by-brick) — holds only the runnable code: the Makefile wall, the lying-brick proof, the graceful validation, the Python and Node twins, and the IFTTT model. Everything that explains what brick by brick IS lives here.
+
 ## The four governing points
 
 - **Brick by Brick** — every lesson becomes a brick, laid zero to one to two to three. Each brick is verified before the next goes on top. A zero-trust policy: no brick is trusted just because it was laid. Each one gets inspected, proven, and only then does it carry weight. The wall is the path you never have to travel again.
@@ -19,21 +21,32 @@ Gain control of the project from where it stands. Test everything, look at every
 
 This is the sequencing application of the law: brick by brick is the organizing tool that puts things in order. The wall is the philosophy; the app is the instrument that enforces it.
 
-## The ladder
+## The sequence
+
+Read left to right like a video timeline. Left to right is time. The first interaction starts at the left edge. Everything happening at the same moment stacks vertically in the same column. The sequence app reads the timeline left to right, like scrubbing through a video.
 
 ```
-Bootstrap English manifest
-        |
-   Python  <-->  Node.js   (side by side, dual runtime)
-        |
-   Rust + Tari            (foundation)
-        |
-   Motion layer           (Motion 3.5, GSAP, WebGPU)
+[ Bootstrap English manifest ]
+[ Python  |  Node.js ]   (stacked, dual runtime)
+[ Rust + Tari ]
+[ Motion layer ]         (Motion 3.5, GSAP, WebGPU)
 ```
 
-Python and Node.js run side by side as the dual runtime. Rust with Tari sits underneath as the foundation. The motion layer — Motion 3.5, GSAP, WebGPU — is the presentation surface. The Bootstrap English manifest is the top rung: the law that every brick below it obeys.
+The Bootstrap English manifest is the first interaction — the trigger. Python and Node.js stack together as the dual runtime, running at the same time. Rust with Tari sits underneath as the foundation. The motion layer — Motion 3.5, GSAP, WebGPU — is the presentation surface.
 
-The engine repo is [brick-by-brick](https://github.com/marvelousempire/brick-by-brick) — the Makefile wall, the lying-brick proof, the graceful validation, the Python and Node twins, and the IFTTT model.
+## Run it
+
+```bash
+make wall
+```
+
+The lying brick computes 2 and claims 99. The receipt check catches it. Make exits 2.
+
+```bash
+bash graceful-validate.sh
+```
+
+Graceful validation never says no. It offers the next option: re-lay the brick, inspect the receipt, climb the sequence, widen the check.
 
 ## The proxy rule
 
@@ -111,3 +124,22 @@ Three-year-olds who can already talk back. We teach order, not vocabulary. The v
 ## The myway folder
 
 The settings layer from setThat. Everything you set becomes the order things happen. Name still open.
+
+## The doctrine files
+
+- `sequence.md` — the full sequence doctrine: stacked timeline, dual runtime, Rust-Tari foundation, motion layer
+- `if-this-then-that.md` — the IFTTT model: if this condition, then that brick gets laid, receipt as proof the action fired
+- `brick-manifest.md` — the Bootstrap English manifest for a brick: guaranteed known, demonstrable receipt, independent checker outside the brick
+- `five-star-treatment.md` — the Charges philosophy: never say no, always give options, a dead end is a failure of the system
+- `concept-trigger-law.json` — the law that auto-creates a hashtag-verb-noun concept
+- `habit-that-record.json` — Habit That app record
+- `jive-turkey-record.json` — the Jive Turkey trigger word
+- `five-star-treatment.json` — the five-star treatment record
+- `node-brick.js` — the Node.js twin, proof the sequence climbs both sides
+- `python-brick.py` — the Python twin
+- `lying-brick.sh` — the lying brick that computes 2 and claims 99
+- `graceful-validate.sh` — the no-never-say-no layer
+- `one-plus-one.sh`, `one-plus-one-plus-one.sh` — Bash bricks
+- `Makefile` — the wall with CHECK_RECEIPT outside every brick
+- `ladder.md` — pointer: the ladder is now the sequence
+- `woocommerce-chassis.json` — WooCommerce as the chassis, pods and ACT as support
