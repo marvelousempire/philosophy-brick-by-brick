@@ -149,3 +149,13 @@ The settings layer from setThat. Everything you set becomes the order things hap
 - `Makefile` — the wall with CHECK_RECEIPT outside every brick
 - `ladder.md` — pointer: the ladder is now the sequence
 - `woocommerce-chassis.json` — WooCommerce as the chassis, pods and ACT as support
+
+## Brick by brick, track by track — October 28 update
+
+The full method name is **Brick by brick, track by track**. Brick by Brick is its shorthand, not a different method. Each project asks “What do the bricks say?”: is there an actual road to drive on or track for the train? Every move requires a contract and available route. One action is a micro-slice; bundles preserve their child contracts and independent evidence. Extend the existing doctrine; runtime stays with brick-by-brick and the established owners.
+
+The connected workflow uses Stub That enforcement, Slice That decomposition, Seed That assembly, Skill That capability packets, Sequence That composition, and Schema That contracts. GitTalk carries real request/ACK/result handshakes; gitThat/GitSmart owns guarded repository acquisition; Raven carries communications and Automata authorizes runtime work. WireGuard and the hosted-assistant connector remain separately qualified pathway proposals.
+
+Receiving entry point: [The Railway, Studio PR #202](https://github.com/marvelousempire/that-app-studio/pull/202), branch `docs/the-railway-2026-10-28`, file `the-railway/README.md`. Companion sources: [micro-slices PR #3](https://github.com/marvelousempire/philosophy-micro-slices/pull/3) and [Raven PR #4](https://github.com/marvelousempire/raven-fcs/pull/4).
+
+**Status:** owner documentation proposal, not a newly commissioned rule or implemented integration. Fetch explicit proposal refs, compare against canonical Gitea through existing owners, preserve local work, run owner checks, and return actual receiving and runtime receipts. A main pull alone does not retrieve this unmerged proposal. No automatic agent loading or tunnel activation is claimed.
