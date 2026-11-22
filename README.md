@@ -1,3 +1,5 @@
+> **Founder's governing intent: Dynamic yet modular.** Read the [indexed Founder Charter](founder-charter/INDEX.md) for Must Haves, Must Denies and domain-specific proof. Proposed policy only; no runtime acceptance is claimed.
+
 # philosophy-brick-by-brick
 
 <p align="center">
